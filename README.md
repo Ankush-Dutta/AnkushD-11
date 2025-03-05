@@ -15,8 +15,7 @@ I am deeply interested in **Machine Learning, Data Science, and AI**. I enjoy ex
 
 ### 🌐 Connect With Me:
 <p align="left">
-<a href="https://linkedin.com/in/ankush-dutta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@ankushdutta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankush-dutta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
@@ -29,18 +28,6 @@ I am deeply interested in **Machine Learning, Data Science, and AI**. I enjoy ex
   <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushd-11&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushd-11&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushd-11&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </p>
 
 ---
