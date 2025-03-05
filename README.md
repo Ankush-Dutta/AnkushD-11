@@ -43,9 +43,4 @@ I am deeply interested in **Machine Learning, Data Science, and AI**. I enjoy ex
 
 ---
 
-### 📊 Fun GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushd-11&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 💡 **Always learning and growing!** Let's connect and collaborate. 🚀
