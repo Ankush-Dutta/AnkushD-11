@@ -19,7 +19,7 @@ I am deeply interested in **Machine Learning, Data Science, and AI**. I enjoy ex
 
 ### 🌐 Connect With Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/ankush-dutta" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/ankush-dutta-18ad" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -37,9 +37,9 @@ I am deeply interested in **Machine Learning, Data Science, and AI**. I enjoy ex
 ---
 
 ### 🎯 Current Focus:
-- 📌 Implementing **LSTM-BiLSTM models for AQI prediction**
-- 🔍 Exploring **hardware deployment of Deep Learning models**
-- 📡 Building an **AQI monitoring system with SMS/email alerts**
+- 📌 Implementing **AQI Prediction**
+- 🔍 Exploring **Natural Language Processing**
+- 📡 Building an **Truck-Helper**
 
 ---
 
